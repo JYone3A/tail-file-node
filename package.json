@@ -1,5 +1,5 @@
 {
-  "name": "JYone3A/tail-file-node",
+  "name": "jyone3a/tail-file-node",
   "version": "4.0.2",
   "description": "A node.js version of unix's `tail -f` command",
   "main": "index.js",
